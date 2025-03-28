@@ -1,4 +1,5 @@
-#Instructions to run the jupyter code 
+#Instructions to run the jupyter code#
+
 #Option 1: Locally hosted ollama
 1. 
 
